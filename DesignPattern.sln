@@ -16,15 +16,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{AAFBD153-24CA-142F-8D87-E9EA6ABB24FE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{54F7DA6F-EA37-D2F8-7D31-0E22057C65BE}"
+	ProjectSection(SolutionItems) = preProject
+		Structural\Adapter\README.md = Structural\Adapter\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "Structural\Adapter\AdapterPattern\AdapterPattern.csproj", "{A79DD375-79B5-4B37-B945-02A13A3E4AB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{26DBFC19-437C-4F90-1A5A-542F2D728CEE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{5ACE1E23-56CB-85AE-16B9-554EA5BF7433}"
-	ProjectSection(SolutionItems) = preProject
-		Behavioral\Strategy\README.md = Behavioral\Strategy\README.md
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "Behavioral\Strategy\StrategyPattern\StrategyPattern.csproj", "{E63EAEE5-9204-4B70-A5F0-1CE9826160A3}"
 EndProject
