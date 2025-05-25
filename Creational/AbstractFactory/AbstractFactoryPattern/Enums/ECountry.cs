@@ -1,4 +1,4 @@
-﻿namespace AbstractFactoryPattern;
+﻿namespace AbstractFactoryPattern.Enums;
 
 public enum ECountry
 {

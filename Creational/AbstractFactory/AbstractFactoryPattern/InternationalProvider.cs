@@ -1,4 +1,6 @@
-﻿namespace AbstractFactoryPattern;
+﻿using AbstractFactoryPattern.Enums;
+
+namespace AbstractFactoryPattern;
 
 public class InternationalProvider
 {

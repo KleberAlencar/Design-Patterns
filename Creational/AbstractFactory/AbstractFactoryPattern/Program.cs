@@ -1,8 +1,9 @@
 ﻿using AbstractFactoryPattern;
+using AbstractFactoryPattern.Enums;
 
-ECountry country = ECountry.Spain;
-ILanguage language = InternationalProvider.CreateLanguage(country);
-ICapitalCity capital = InternationalProvider.CreateCapitalCity(country);
+var country = ECountry.Spain;
+var language = InternationalProvider.CreateLanguage(country);
+var capital = InternationalProvider.CreateCapitalCity(country);
 
 Console.WriteLine($"Country: {country}");
 Console.WriteLine($"Capital: {capital.GetType().Name}");
