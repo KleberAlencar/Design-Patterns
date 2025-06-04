@@ -16,7 +16,7 @@ A behavioral design pattern that establishes a one-to-many dependency between ob
 4. Dynamic Composition: To support dynamic composition of objects with runtime registration and deregistration of observers;
 5. Event Handling: Often used in event handling systems where observers react to events without requiring the source to have explicit knowledge of the observers.
 
-## When not to use the Observer Design Pattern:
+## When not to use:
 1. Performance Overhead: Managing and notifying multiple observers can add runtime overhead;
 2. Complexity for Simple Scenarios: For simple scenarios, using the Observer pattern might introduce unnecessary complexity;
 3. Unintended Broadcasts: There is a risk of unintentionally broadcasting changes to a large number of observers;

@@ -16,7 +16,7 @@ Enables the decoupling of objects, simplifies communication between multiple obj
 4. Changes in Behavior: You anticipate changes in the behavior of components, and you want to encapsulate these changes within the mediator, preventing widespread modifications;
 5. Enhanced Reusability: You want to reuse individual components in different contexts without altering their internal logic or communication patterns.
 
-## When not to use the Mediator Design Pattern:
+## When not to use:
 1. Simple Interactions: The interactions between components are straightforward, and introducing a mediator would add unnecessary complexity;
 2. Single Responsibility Principle (SRP): The Single Responsibility Principle states that each component has a single responsibility; adding a mediator could go against this principle and result in less maintainable code;
 3. Performance Concerns: Introducing a mediator could introduce a performance overhead, especially in situations where direct communication between components is more efficient;
