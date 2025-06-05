@@ -1,4 +1,4 @@
-﻿namespace FactoryPattern;
+﻿namespace FactoryPattern._01_Approach;
 
 public class ApplePayment : IPayment
 {

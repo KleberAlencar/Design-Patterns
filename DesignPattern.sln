@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{56A9F078-40C9-3DDD-7DA3-B5A4BF238A7F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{90DFF9D6-6064-F8FE-940D-2B723E32BEE9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory_Method", "Factory_Method", "{90DFF9D6-6064-F8FE-940D-2B723E32BEE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "Creational\Factory\FactoryPattern\FactoryPattern.csproj", "{35CFAB2B-7688-4804-83A3-761F5D6EC2E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "Creational\Factory\FactoryMethodPattern\FactoryMethodPattern.csproj", "{35CFAB2B-7688-4804-83A3-761F5D6EC2E5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{596AD531-0331-6D51-F1EA-EE7225ABB4F2}"
 EndProject

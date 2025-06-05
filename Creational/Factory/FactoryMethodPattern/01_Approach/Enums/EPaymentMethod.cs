@@ -1,4 +1,4 @@
-﻿namespace FactoryPattern.Enums;
+﻿namespace FactoryPattern._01_Approach.Enums;
 
 public enum EPaymentMethod
 {

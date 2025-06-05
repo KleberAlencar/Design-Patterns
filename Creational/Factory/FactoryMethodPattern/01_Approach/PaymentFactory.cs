@@ -1,6 +1,6 @@
-﻿using FactoryPattern.Enums;
+﻿using FactoryPattern._01_Approach.Enums;
 
-namespace FactoryPattern;
+namespace FactoryPattern._01_Approach;
 
 public abstract class PaymentFactory
 {
