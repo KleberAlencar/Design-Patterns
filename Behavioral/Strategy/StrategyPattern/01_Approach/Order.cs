@@ -1,6 +1,6 @@
-﻿using StrategyPattern.Enums;
+﻿using StrategyPattern._01_Approach.Enums;
 
-namespace StrategyPattern;
+namespace StrategyPattern._01_Approach;
 
 public record Order()
 {

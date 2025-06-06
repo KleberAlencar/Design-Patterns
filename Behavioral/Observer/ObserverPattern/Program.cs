@@ -2,6 +2,9 @@
 using ObserverPattern._02_Approach;
 using NewsAgency = ObserverPattern._01_Approach.NewsAgency;
 
+Console.WriteLine("01_Approach Observer Pattern ===============");
+Console.WriteLine(" ");
+
 // First approach
 User user01 = new ("User 01");
 User user02 = new ("User 02");
@@ -19,7 +22,10 @@ newsAgency.Unregister(user01);
 newsAgency.Unregister(school01);
 newsAgency.Notify("02. News about something...");
 
-Console.WriteLine("============================================");
+Console.WriteLine(" ");
+
+Console.WriteLine("02_Approach Observer Pattern ===============");
+Console.WriteLine(" ");
 
 // Second approach
 var subject = new Subject();

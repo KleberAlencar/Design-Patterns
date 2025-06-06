@@ -1,4 +1,4 @@
-﻿namespace StrategyPattern;
+﻿namespace StrategyPattern._01_Approach;
 
 public class PushService : IOrderNotifier
 {

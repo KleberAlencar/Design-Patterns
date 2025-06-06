@@ -8,7 +8,6 @@ Console.WriteLine(" ");
 IPayment payment = PaymentFactory.GetPayment(EPaymentMethod.GooglePay);
 payment.Pay(1000.00);
 
-Console.WriteLine("============================================");
 Console.WriteLine(" ");
 
 Console.WriteLine("02_Approach Factory Pattern ================");

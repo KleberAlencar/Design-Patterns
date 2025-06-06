@@ -1,4 +1,4 @@
-﻿namespace StrategyPattern.Enums;
+﻿namespace StrategyPattern._01_Approach.Enums;
 
 public enum EOrderStatus
 {

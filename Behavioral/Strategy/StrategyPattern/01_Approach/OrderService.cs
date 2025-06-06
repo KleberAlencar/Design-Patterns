@@ -1,6 +1,4 @@
-﻿using StrategyPattern.Enums;
-
-namespace StrategyPattern;
+﻿namespace StrategyPattern._01_Approach;
 
 public class OrderService(IOrderNotifier notifier)
 {
