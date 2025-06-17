@@ -12,7 +12,7 @@ Enables the decoupling of objects, simplifies communication between multiple obj
 ## Benefits of the Mediator Pattern:
 1. Complex Communication: Your system involves a set of objects that need to communicate with each other in a complex manner, and you want to avoid direct dependencies between them;
 2. Loose Coupling: You want to promote loose coupling between objects, allowing them to interact without knowing the details of each other's implementations;
-3. Centralized Control: You need a centralized mechanism to coordinate and control the interactions between objects, ensuring a more organized and maintainable system.
+3. Centralized Control: You need a centralized mechanism to coordinate and control the interactions between objects, ensuring a more organized and maintainable system;
 4. Changes in Behavior: You anticipate changes in the behavior of components, and you want to encapsulate these changes within the mediator, preventing widespread modifications;
 5. Enhanced Reusability: You want to reuse individual components in different contexts without altering their internal logic or communication patterns.
 
